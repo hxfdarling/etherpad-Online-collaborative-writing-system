@@ -1,0 +1,3 @@
+# etherpad-Online-collaborative-writing-system
+基于Etherpad，用于基于学习分析技术的在线系统系统
+运行系统前请在根目录下面创建一个文件夹var
