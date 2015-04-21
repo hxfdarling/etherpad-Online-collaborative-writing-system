@@ -127,7 +127,7 @@
 
 
     /* The log level we are using, can be: DEBUG, INFO, WARN, ERROR */
-    "loglevel": "ERROR",
+    "loglevel": "INFO",
 
     //Logging configuration. See log4js documentation for further information
     // https://github.com/nomiddlename/log4js-node
