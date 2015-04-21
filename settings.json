@@ -50,7 +50,6 @@
      "password": "",
      "database": "store"
      },
-
     **/
     //the default text of a pad
     "defaultPadText": "欢迎来到在线协同写作系统",
