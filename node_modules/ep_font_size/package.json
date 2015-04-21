@@ -1,0 +1,40 @@
+{
+  "description": "Add support for Font Sizes",
+  "name": "ep_font_size",
+  "version": "0.1.11",
+  "author": {
+    "name": "John McLear",
+    "email": "john@mclear.co.uk"
+  },
+  "dependencies": {},
+  "peerDependencies": {
+    "ep_etherpad-lite": ">=1.5.1"
+  },
+  "engines": {
+    "node": "*"
+  },
+  "gitHead": "9444e6d861a64a892af96b5de1006a460dd82e6f",
+  "_id": "ep_font_size@0.1.11",
+  "scripts": {},
+  "_shasum": "997c079bab97e04196c9db43b3bb238c804d8126",
+  "_from": "ep_font_size@*",
+  "_npmVersion": "2.5.1",
+  "_nodeVersion": "0.12.0",
+  "_npmUser": {
+    "name": "johnyma22",
+    "email": "john@mclear.co.uk"
+  },
+  "maintainers": [
+    {
+      "name": "johnyma22",
+      "email": "john@mclear.co.uk"
+    }
+  ],
+  "dist": {
+    "shasum": "997c079bab97e04196c9db43b3bb238c804d8126",
+    "tarball": "http://registry.npmjs.org/ep_font_size/-/ep_font_size-0.1.11.tgz"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/ep_font_size/-/ep_font_size-0.1.11.tgz",
+  "readme": "ERROR: No README data found!"
+}

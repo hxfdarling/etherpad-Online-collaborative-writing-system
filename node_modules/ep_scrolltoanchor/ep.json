@@ -1,0 +1,10 @@
+{
+  "parts": [
+    {
+      "name": "scrolltoanchor",
+      "client_hooks": {
+        "postAceInit": "ep_scrolltoanchor/static/js/postAceInit:postAceInit"
+      }
+    }
+  ]
+}

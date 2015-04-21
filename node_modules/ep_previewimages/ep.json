@@ -1,0 +1,12 @@
+{
+  "parts": [
+    {
+      "name": "ep_previewimages",
+      "client_hooks": {
+        "aceGetFilterStack": "ep_previewimages/static/js/index:aceGetFilterStack",
+        "aceCreateDomLine": "ep_previewimages/static/js/index:aceCreateDomLine"
+      }
+    }
+  ]
+}
+
